@@ -1,0 +1,19 @@
+
+
+@media only screen and (max-width: 400px) {
+.css-1avrgd {
+    width: 100%;
+    height: 130% !important;
+
+}
+.css-8paxxn{
+    width: 300px !important;
+}
+}
+
+
+@media only screen and (max-width: 600px) {
+/* .css-8paxxn{
+    width: 300px !important;
+} */
+}
